@@ -12,8 +12,7 @@ This repository implenmets realtime American Sign Language recognition with deep
 
 ## Installation
 
-### Clone the repository: https://github.com/ayaaiden/20251125_Myrzatay_Ayaulym_92003661_bachelor_thesis 
-
+### Clone the repository: https://github.com/ayaaiden/RealTime_Sign_Language_Recognition_System_with_Alphabet_Fallback_Mechanism-_for_OOV_words 
 ## **A. Create Virtual Environment**
 
 #### macOS
